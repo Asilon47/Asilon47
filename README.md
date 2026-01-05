@@ -1,5 +1,5 @@
 # About Me:
-An engineer with interests in Fintech, Artificial intelligence an Control theory. Intelligent systems in general. 
+An engineer with interests in Fintech, Artificial intelligence and Control theory. Intelligent systems in general. 
 
 
 ## Socials:
